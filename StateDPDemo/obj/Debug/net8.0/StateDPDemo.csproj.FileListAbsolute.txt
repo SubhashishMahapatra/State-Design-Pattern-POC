@@ -1,0 +1,14 @@
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\obj\Debug\net8.0\StateDPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\obj\Debug\net8.0\StateDPDemo.AssemblyInfoInputs.cache
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\obj\Debug\net8.0\StateDPDemo.AssemblyInfo.cs
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\obj\Debug\net8.0\StateDPDemo.csproj.CoreCompileInputs.cache
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\bin\Debug\net8.0\StateDPDemo.exe
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\bin\Debug\net8.0\StateDPDemo.deps.json
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\bin\Debug\net8.0\StateDPDemo.runtimeconfig.json
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\bin\Debug\net8.0\StateDPDemo.dll
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\bin\Debug\net8.0\StateDPDemo.pdb
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\obj\Debug\net8.0\StateDPDemo.dll
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\obj\Debug\net8.0\refint\StateDPDemo.dll
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\obj\Debug\net8.0\StateDPDemo.pdb
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\obj\Debug\net8.0\StateDPDemo.genruntimeconfig.cache
+C:\Users\subhashish.mahapatra\Desktop\C#\StateDPDemo\obj\Debug\net8.0\ref\StateDPDemo.dll
